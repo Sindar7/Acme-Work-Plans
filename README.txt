@@ -13,18 +13,15 @@ who have enroled the Design and Testing subject of the Software Engineering curr
 University of Sevilla.  This project is intended to illustrate how to develop a simple web
 information system. Our github repository is https://github.com/Sindar7/Acme-Work-Plans.git
 
-- CleverCloud credentials:
-    Username: mardiafer13@alum.us.es
-    Password: Str0ng-P@$$w0rd
 
-- Application url: http://app-50019136-03c1-468f-a56e-a3b533870816.cleverapps.io/Acme-Planner/master/welcome
+- Application url: http://app-874f73f6-b348-4ae0-ab2d-b7ce05b9b301.cleverapps.io/Acme-Work-Plans/master/welcome
 
 - Environment variables:
 
-MYSQL_ADDON_HOST=b7xjnkitcvbcypirtenu-mysql.services.clever-cloud.com
-MYSQL_ADDON_DB=b7xjnkitcvbcypirtenu
-MYSQL_ADDON_USER=uo3kyktyixoayngu
+MYSQL_ADDON_HOST=bsa2oawwej6ppq2vjbzn-mysql.services.clever-cloud.com
+MYSQL_ADDON_DB=bsa2oawwej6ppq2vjbzn
+MYSQL_ADDON_USER=uxkeu876m2yttjxu
 MYSQL_ADDON_PORT=3306
-MYSQL_ADDON_PASSWORD=cWcS4efpQZ4fx3oWR1WT 
-MYSQL_ADDON_URI=mysql://uo3kyktyixoayngu:cWcS4efpQZ4fx3oWR1WT@b7xjnkitcvbcypirtenu-mysql.services.clever-cloud.com:3306/b7xjnkitcvbcypirtenu
+MYSQL_ADDON_PASSWORD=sYAO3fINl9fUcIZ43F35 
+MYSQL_ADDON_URI=mysql://uxkeu876m2yttjxu:sYAO3fINl9fUcIZ43F35@bsa2oawwej6ppq2vjbzn-mysql.services.clever-cloud.com:3306/bsa2oawwej6ppq2vjbzn
 
